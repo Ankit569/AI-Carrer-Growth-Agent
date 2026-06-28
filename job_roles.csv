@@ -1,0 +1,11 @@
+Role,Required_Skills,Description
+AI Engineer,"Python, PyTorch, LLMs, Prompt Engineering, LangChain, Vector Databases, API Integration, Git","Specializes in building systems powered by Large Language Models and custom machine learning pipelines."
+Machine Learning Engineer,"Python, SQL, TensorFlow, PyTorch, Docker, AWS, Git, Mathematics, MLOps","Focuses on training models, deploying them to production, and building robust data pipelines."
+Data Analyst,"Python, SQL, Tableau, PowerBI, Excel, Statistics, Data Visualization, Communication","Extracts insights from data, builds dashboard reports, and presents trends to business stakeholders."
+Python Developer,"Python, Django, Flask, FastAPI, SQL, Git, REST APIs, HTML, CSS","Builds web backends, APIs, and automates processes using Python frameworks."
+Backend Developer,"Java, Python, Go, SQL, PostgreSQL, System Design, Microservices, Docker, Git","Architects high-performance server-side architectures, databases, and APIs."
+Frontend Developer,"HTML, CSS, JavaScript, React, Vue, Tailwind, Git, TypeScript, UI/UX","Designs and builds user interfaces for web apps focusing on aesthetics, responsiveness, and performance."
+DevOps Cloud Engineer,"AWS, Docker, Kubernetes, CI/CD, Terraform, Linux, Shell Scripting, Git","Automates infrastructure provisioning, software deployments, and system monitoring."
+Data Scientist,"Python, R, SQL, Machine Learning, Statistics, Linear Algebra, Pandas, Jupyter","Combines programming, statistical analysis, and machine learning to build predictive models and business insights."
+Product Manager,"Product Strategy, Agile, Communication, User Research, Roadmapping, Data Analytics","Defines the product vision, requirements, and coordinates engineering, design, and marketing teams."
+Cybersecurity Analyst,"Networking, Linux, Penetration Testing, Wireshark, Cryptography, Security Auditing, Python","Protects organization networks, monitors security breaches, and audits software vulnerabilities."

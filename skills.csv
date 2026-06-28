@@ -1,0 +1,668 @@
+Skill,Category
+Python,Technical
+Java,Technical
+C++,Technical
+JavaScript,Technical
+TypeScript,Technical
+Go,Technical
+Rust,Technical
+HTML/CSS,Technical
+React,Technical
+Angular,Technical
+Vue,Technical
+Next.js,Technical
+TailwindCSS,Technical
+SQL,Technical
+PostgreSQL,Technical
+MySQL,Technical
+MongoDB,Technical
+Redis,Technical
+Docker,Technical
+Kubernetes,Technical
+AWS,Technical
+Azure,Technical
+Google Cloud Platform,Technical
+Terraform,Technical
+CI/CD,Technical
+Git/GitHub,Technical
+Linux,Technical
+Shell Scripting,Technical
+Django,Technical
+FastAPI,Technical
+Flask,Technical
+Spring Boot,Technical
+TensorFlow,Technical
+PyTorch,Technical
+Scikit-Learn,Technical
+Pandas,Technical
+NumPy,Technical
+Data Visualization,Technical
+Tableau,Technical
+PowerBI,Technical
+System Design,Technical
+Microservices,Technical
+REST APIs,Technical
+GraphQL,Technical
+LLMs,Technical
+LangChain,Technical
+LangGraph,Technical
+Vector Databases,Technical
+Prompt Engineering,Technical
+Agile/Scrum,Process
+Project Management,Process
+Communication,Soft Skill
+Problem Solving,Soft Skill
+Teamwork,Soft Skill
+Leadership,Soft Skill
+Adaptability,Soft Skill
+Time Management,Soft Skill
+Critical Thinking,Soft Skill
+Creativity,Soft Skill
+Presentation,Soft Skill
+Product Strategy,Soft Skill
+User Research,Soft Skill
+SEO,Technical
+Machine Learning,Technical
+Deep Learning,Technical
+Natural Language Processing,Technical
+Computer Vision,Technical
+Statistics,Technical
+Linear Algebra,Technical
+Calculus,Technical
+Excel,Technical
+Linux Administration,Technical
+Kubernetes Administration,Technical
+Penetration Testing,Technical
+Cryptography,Technical
+Security Auditing,Technical
+Network Security,Technical
+Wireshark,Technical
+Cloud Security,Technical
+Jira,Process
+Confluence,Process
+GitLab,Technical
+Jenkins,Technical
+Ansible,Technical
+Prometheus,Technical
+Grafana,Technical
+Elasticsearch,Technical
+Logstash,Technical
+Kibana,Technical
+Apache Kafka,Technical
+Apache Spark,Technical
+Hadoop,Technical
+Airflow,Technical
+Snowflake,Technical
+dbt,Technical
+Tableau Desktop,Technical
+PowerBI Desktop,Technical
+Figma,Technical
+Adobe XD,Technical
+Product Analytics,Technical
+Market Research,Technical
+A/B Testing,Technical
+Growth Hacking,Technical
+Content Writing,Soft Skill
+Copywriting,Soft Skill
+Public Speaking,Soft Skill
+Negotiation,Soft Skill
+Conflict Resolution,Soft Skill
+Active Listening,Soft Skill
+Empathy,Soft Skill
+Interpersonal Skills,Soft Skill
+Collaboration,Soft Skill
+Mentoring,Soft Skill
+Instructional Design,Soft Skill
+Curriculum Development,Soft Skill
+Technical Writing,Soft Skill
+Documentation,Soft Skill
+Academic Research,Soft Skill
+Data Entry,Technical
+Office Suite,Technical
+Google Workspace,Technical
+Microsoft Office,Technical
+Customer Service,Soft Skill
+Client Management,Soft Skill
+Stakeholder Management,Soft Skill
+Financial Analysis,Technical
+Accounting,Technical
+Budgeting,Technical
+Financial Modeling,Technical
+Valuation,Technical
+Risk Management,Technical
+Compliance,Technical
+Regulatory Affairs,Technical
+Quality Assurance,Technical
+Software Testing,Technical
+Unit Testing,Technical
+Integration Testing,Technical
+End-to-End Testing,Technical
+Selenium,Technical
+Cypress,Technical
+Playwright,Technical
+Postman,Technical
+JMeter,Technical
+Load Testing,Technical
+Security Testing,Technical
+Mobility Development,Technical
+Android Development,Technical
+iOS Development,Technical
+Flutter,Technical
+React Native,Technical
+Swift,Technical
+Kotlin,Technical
+Objective-C,Technical
+Java (Android),Technical
+Dart,Technical
+Xamarin,Technical
+Unity,Technical
+Unreal Engine,Technical
+Game Development,Technical
+3D Modeling,Technical
+Blender,Technical
+Maya,Technical
+Photoshop,Technical
+Illustrator,Technical
+InDesign,Technical
+Premiere Pro,Technical
+After Effects,Technical
+Video Editing,Technical
+Audio Editing,Technical
+Podcast Production,Technical
+Digital Marketing,Technical
+Social Media Management,Technical
+Brand Strategy,Soft Skill
+Public Relations,Soft Skill
+Event Planning,Soft Skill
+Sales,Soft Skill
+Business Development,Soft Skill
+Lead Generation,Technical
+CRM,Technical
+Salesforce,Technical
+HubSpot,Technical
+Email Marketing,Technical
+Google Analytics,Technical
+Google Ads,Technical
+Facebook Ads,Technical
+Copyediting,Soft Skill
+Proofreading,Soft Skill
+Translation,Soft Skill
+Localization,Soft Skill
+Language Teaching,Soft Skill
+Tutoring,Soft Skill
+Coaching,Soft Skill
+Career Counseling,Soft Skill
+Resume Writing,Soft Skill
+Cover Letter Writing,Soft Skill
+Job Search Strategy,Soft Skill
+Interview Preparation,Soft Skill
+Networking (Professional),Soft Skill
+Salary Negotiation,Soft Skill
+Personal Branding,Soft Skill
+LinkedIn Optimization,Soft Skill
+Portfolio Development,Soft Skill
+Self-Directed Learning,Soft Skill
+Continuous Improvement,Soft Skill
+Curiosity,Soft Skill
+Resilience,Soft Skill
+Stress Management,Soft Skill
+Emotional Intelligence,Soft Skill
+Mindfulness,Soft Skill
+Goal Setting,Soft Skill
+Decision Making,Soft Skill
+Strategic Planning,Soft Skill
+Business Analysis,Technical
+Requirements Gathering,Process
+Process Mapping,Process
+Change Management,Process
+Operations Management,Process
+Supply Chain Management,Technical
+Logistics,Technical
+Inventory Management,Technical
+Procurement,Technical
+Vendor Management,Soft Skill
+Contract Negotiation,Soft Skill
+Legal Research,Technical
+Contract Drafting,Technical
+Intellectual Property,Technical
+Corporate Law,Technical
+Litigation,Technical
+Compliance Auditing,Technical
+Risk Assessment,Technical
+Policy Writing,Technical
+HR Administration,Process
+Talent Acquisition,Process
+Recruiting,Process
+Onboarding,Process
+Employee Relations,Soft Skill
+Performance Management,Process
+Compensation & Benefits,Process
+HRIS,Technical
+Workday,Technical
+BambooHR,Technical
+ADP,Technical
+Payroll Processing,Technical
+Employee Engagement,Soft Skill
+Diversity & Inclusion,Soft Skill
+Conflict Management,Soft Skill
+Workplace Safety,Process
+First Aid,Process
+CPR,Process
+Emergency Response,Process
+Crisis Management,Soft Skill
+Disaster Recovery,Technical
+Business Continuity,Technical
+IT Support,Technical
+Help Desk,Technical
+Troubleshooting,Technical
+Hardware Maintenance,Technical
+Software Installation,Technical
+Active Directory,Technical
+Network Administration,Technical
+DNS,Technical
+DHCP,Technical
+IP Addressing,Technical
+Subnetting,Technical
+Routing,Technical
+Switching,Technical
+Firewall Configuration,Technical
+VPN,Technical
+Wireless Networking,Technical
+VoIP,Technical
+System Administration,Technical
+Windows Server,Technical
+Linux Server,Technical
+macOS Administration,Technical
+Virtualization,Technical
+VMware,Technical
+Hyper-V,Technical
+VirtualBox,Technical
+Database Administration,Technical
+SQL Server,Technical
+Oracle Database,Technical
+SQLite,Technical
+Cassandra,Technical
+HBase,Technical
+Neo4j,Technical
+Graph Databases,Technical
+NoSQL,Technical
+Data Modeling,Technical
+Data Warehousing,Technical
+ETL,Technical
+Data Integration,Technical
+Data Migration,Technical
+Data Governance,Technical
+Data Quality,Technical
+Data Security,Technical
+Data Privacy,Technical
+GDPR Compliance,Technical
+CCPA Compliance,Technical
+HIPAA Compliance,Technical
+Information Security,Technical
+ISMS,Technical
+ISO 27001,Technical
+NIST Framework,Technical
+CIS Controls,Technical
+SOC 2 Compliance,Technical
+PCI DSS Compliance,Technical
+Ethical Hacking,Technical
+Vulnerability Management,Technical
+SIEM,Technical
+Incident Response,Process
+Digital Forensics,Technical
+Malware Analysis,Technical
+Threat Intelligence,Technical
+Threat Hunting,Technical
+Security Operations Center (SOC),Process
+DevSecOps,Technical
+Security Architecture,Technical
+Security Engineering,Technical
+Application Security,Technical
+Web Application Security,Technical
+OWASP Top 10,Technical
+Secure Coding,Technical
+Static Code Analysis (SAST),Technical
+Dynamic Code Analysis (DAST),Technical
+Software Composition Analysis (SCA),Technical
+Infrastructure as Code (IaC),Technical
+Configuration Management,Technical
+Orchestration,Technical
+Containerization,Technical
+Microservices Architecture,Technical
+Serverless Architecture,Technical
+Cloud Architecture,Technical
+Hybrid Cloud,Technical
+Multi-Cloud,Technical
+Cloud Migration,Technical
+Cloud Optimization,Technical
+Cloud Monitoring,Technical
+APM,Technical
+Distributed Tracing,Technical
+Service Mesh,Technical
+API Gateway,Technical
+Message Queues,Technical
+Event-Driven Architecture,Technical
+CQRS,Technical
+Event Sourcing,Technical
+Domain-Driven Design (DDD),Technical
+Test-Driven Development (TDD),Technical
+Behavior-Driven Development (BDD),Technical
+Pair Programming,Process
+Code Review,Process
+Refactoring,Technical
+Design Patterns,Technical
+Solid Principles,Technical
+DRY Principle,Technical
+KISS Principle,Technical
+YAGNI Principle,Technical
+Clean Code,Technical
+Technical Debt Management,Process
+Software Architecture,Technical
+Enterprise Architecture,Technical
+Solutions Architecture,Technical
+IT Strategy,Process
+IT Governance,Process
+COBIT,Process
+ITIL,Process
+Service Desk,Process
+Change Control,Process
+Release Management,Process
+Deployment Automation,Technical
+Blue-Green Deployment,Technical
+Canary Deployment,Technical
+Rolling Update,Technical
+Feature Flags,Technical
+A/B Testing (Software),Technical
+Chaos Engineering,Technical
+Site Reliability Engineering (SRE),Technical
+Performance Tuning,Technical
+Scalability Engineering,Technical
+High Availability,Technical
+Disaster Recovery Planning,Process
+Backup & Recovery,Technical
+Storage Management,Technical
+SAN/NAS,Technical
+Fibre Channel,Technical
+iSCSI,Technical
+NFS,Technical
+SMB/CIFS,Technical
+Object Storage,Technical
+Block Storage,Technical
+File Storage,Technical
+Cloud Storage,Technical
+Hybrid Storage,Technical
+Software-Defined Storage (SDS),Technical
+Data Compression,Technical
+Data Deduplication,Technical
+Data Encryption,Technical
+Key Management,Technical
+IAM,Technical
+Single Sign-On (SSO),Technical
+MFA,Technical
+OAuth 2.0,Technical
+SAML,Technical
+OIDC,Technical
+Directory Services,Technical
+LDAP,Technical
+Kerberos,Technical
+PKI,Technical
+Certificates (SSL/TLS),Technical
+Encryption (AES/RSA),Technical
+Hashing (SHA/MD5),Technical
+Digital Signatures,Technical
+Blockchain,Technical
+Smart Contracts,Technical
+Ethereum,Technical
+Solidity,Technical
+Bitcoin,Technical
+Hyperledger,Technical
+Web3,Technical
+DeFi,Technical
+NFTs,Technical
+DApps,Technical
+IPFS,Technical
+Cryptography (Post-Quantum),Technical
+Zero-Knowledge Proofs,Technical
+Homomorphic Encryption,Technical
+Secure Multi-Party Computation (SMPC),Technical
+Differential Privacy,Technical
+Federated Learning,Technical
+Edge AI,Technical
+TinyML,Technical
+Reinforcement Learning,Technical
+Generative AI,Technical
+GANs,Technical
+VAEs,Technical
+Diffusion Models,Technical
+Transformer Models,Technical
+BERT,Technical
+GPT,Technical
+T5,Technical
+LLaMA,Technical
+Claude,Technical
+Gemini,Technical
+Cohere,Technical
+Mistral,Technical
+Stable Diffusion,Technical
+Midjourney,Technical
+DALL-E,Technical
+Runway,Technical
+Sora,Technical
+AI Agent Frameworks,Technical
+AutoGPT,Technical
+BabyAGI,Technical
+CrewAI,Technical
+AutoGen,Technical
+Semantic Kernel,Technical
+LlamaIndex,Technical
+Chroma,Technical
+Pinecone,Technical
+Weaviate,Technical
+Milvus,Technical
+Qdrant,Technical
+FAISS,Technical
+pgvector,Technical
+Retrieval-Augmented Generation (RAG),Technical
+Agentic RAG,Technical
+Graph RAG,Technical
+Prompt Tuning,Technical
+Fine-Tuning (LLMs),Technical
+LoRA,Technical
+QLoRA,Technical
+PEFT,Technical
+Model Quantization,Technical
+GGUF,Technical
+GPTQ,Technical
+AWQ,Technical
+Model Evaluation,Technical
+Ragas,Technical
+TruLens,Technical
+Phoenix (Arize),Technical
+LangSmith,Technical
+Langfuse,Technical
+MLflow,Technical
+DVC,Technical
+Kubeflow,Technical
+TFX,Technical
+SageMaker,Technical
+Vertex AI,Technical
+Azure ML,Technical
+Comet ML,Technical
+Weights & Biases,Technical
+Neptune.ai,Technical
+TensorBoard,Technical
+Model Registry,Technical
+Model Deployment,Technical
+Model Serving,Technical
+Triton Inference Server,Technical
+TorchServe,Technical
+TF Serving,Technical
+KServe,Technical
+BentoML,Technical
+Ray,Technical
+Dask,Technical
+Spark MLlib,Technical
+Mahout,Technical
+Weka,Technical
+Orange (Software),Technical
+KNIME,Technical
+Alteryx,Technical
+RapidMiner,Technical
+SAS,Technical
+SPSS,Technical
+RStudio,Technical
+MATLAB,Technical
+Mathematica,Technical
+Octave,Technical
+SciPy,Technical
+SymPy,Technical
+Statsmodels,Technical
+Biopython,Technical
+Bioinformatics,Technical
+Cheminformatics,Technical
+Computational Chemistry,Technical
+Molecular Dynamics,Technical
+Docking (Molecular),Technical
+PyMOL,Technical
+AutoDock,Technical
+GROMACS,Technical
+AMBER,Technical
+CHARMM,Technical
+NAMD,Technical
+Quantum Computing,Technical
+Qiskit,Technical
+Cirq,Technical
+PennyLane,Technical
+Ocean (D-Wave),Technical
+Quantum Algorithms,Technical
+Quantum Error Correction,Technical
+Quantum Cryptography,Technical
+Quantum Sensing,Technical
+Nanotechnology,Technical
+Biotechnology,Technical
+Genetic Engineering,Technical
+CRISPR,Technical
+Gene Editing,Technical
+Synthetic Biology,Technical
+Metabolic Engineering,Technical
+Cell Culture,Technical
+PCR,Technical
+Gel Electrophoresis,Technical
+Western Blotting,Technical
+ELISA,Technical
+Flow Cytometry,Technical
+Microscopy,Technical
+Mass Spectrometry,Technical
+NMR Spectroscopy,Technical
+X-ray Crystallography,Technical
+Cryo-EM,Technical
+Next-Generation Sequencing (NGS),Technical
+RNA-Seq,Technical
+ChIP-Seq,Technical
+ATAC-Seq,Technical
+Single-Cell Sequencing,Technical
+Spatial Transcriptomics,Technical
+Genomics,Technical
+Transcriptomics,Technical
+Proteomics,Technical
+Metabolomics,Technical
+Epigenomics,Technical
+Metagenomics,Technical
+Microbiome Analysis,Technical
+Clinical Research,Technical
+Clinical Trials,Technical
+GCP Guidelines,Technical
+ICH Guidelines,Technical
+SOP Writing,Process
+Regulatory Compliance (Healthcare),Technical
+FDA Regulations,Technical
+EMA Regulations,Technical
+HIPAA Security Rule,Technical
+Electronic Health Records (EHR),Technical
+HL7,Technical
+FHIR,Technical
+DICOM,Technical
+Medical Imaging,Technical
+PACS,Technical
+Bioinformatics Pipelines,Technical
+Snakemake,Technical
+Nextflow,Technical
+CWL,Technical
+WDL,Technical
+Galaxy (Bioinformatics),Technical
+BLAST,Technical
+Clustal Omega,Technical
+MUSCLE,Technical
+MAFFT,Technical
+Bowtie,Technical
+BWA,Technical
+SAMtools,Technical
+BCFtools,Technical
+GATK,Technical
+FreeBayes,Technical
+Plink,Technical
+VCF Tools,Technical
+Bedtools,Technical
+IGV,Technical
+UCSC Genome Browser,Technical
+Ensembl,Technical
+NCBI Entrez,Technical
+UniProt,Technical
+PDB,Technical
+ChEMBL,Technical
+PubChem,Technical
+DrugBank,Technical
+KEGG,Technical
+Reactome,Technical
+Gene Ontology (GO),Technical
+QuickGO,Technical
+STRING Database,Technical
+GTEx,Technical
+Human Protein Atlas,Technical
+ClinVar,Technical
+dbSNP,Technical
+gnomAD,Technical
+AlphaFold,Technical
+ESMFold,Technical
+Rosetta,Technical
+Foldseek,Technical
+MMseqs2,Technical
+JASPAR,Technical
+UniBind,Technical
+ENCODE SCREEN,Technical
+AlphaGenome,Technical
+ClinicalTrials.gov API,Technical
+OpenFDA,Technical
+Open Targets,Technical
+Europe PMC,Technical
+OpenAlex,Technical
+arXiv API,Technical
+bioRxiv API,Technical
+PubMed API,Technical
+Ontology Lookup Service (OLS),Technical
+Obtaining Permissions,Process
+Writing Artifacts,Process
+Managing Tasks,Process
+Running Code,Technical
+Interactive Dashboard Creation,Technical
+HTML/JS App Development,Technical
+Tailwind Styling,Technical
+Vite App Creation,Technical
+Next.js Framework,Technical
+Streamlit Customization,Technical
+Aesthetic Visuals,Design
+Harmony Colors,Design
+Custom Typography,Design
+Micro-Animations,Design
+Premium Graphic Design,Design
+Glassmorphism,Design
+Dark Mode,Design
+Responsive Layouts,Design
+SEO Best Practices,Process
+Semantic HTML5,Technical
+Web Performance Tuning,Technical
+Accessibility (a11y),Technical
+Browser Testing,Technical
+User Testing,Process
+Feedback Gathering,Process
+Iterative Refinement,Process
